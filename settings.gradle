@@ -1,0 +1,2 @@
+rootProject.name='DbOperation'
+include ':app'
